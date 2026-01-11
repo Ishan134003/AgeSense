@@ -1,0 +1,36 @@
+.venv/
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Data and large files
+Dataset/
+Dataset*/
+# Models are included in repository
+*.h5
+*.ckpt
+
+# Temp and outputs
+*.png
+*.jpg
+*.jpeg
+*.bmp
+/output/
+
+# User-specific
+.claude/
+*.sqlite3
+
+# Python env
+pip-log.txt
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
