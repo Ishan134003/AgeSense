@@ -13,7 +13,7 @@
 ---
 
 ## 🛠 Tech Stack
-Python, OpenCV, TensorFlow/Keras, NumPy
+Python, OpenCV, Haarcascade, NumPy
 
 ---
 
